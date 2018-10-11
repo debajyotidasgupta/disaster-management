@@ -4,7 +4,7 @@
 
 <img src="https://cdn.vox-cdn.com/thumbor/MAV-vl94R7WOwaoVkGPUG1xOEgc=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/9933973/Weather_disasters2017f.jpg" alt="drawing" width=70%>
 
->This were the statistics of the amount of losses from different sort of natural disaster. 
+>These were the statistics of the amount of losses from different sort of natural disaster. 
 
 >In 90% cases the affected and the victims had minimal or no knowledge 
 >of the safety measures to be taken during the disaster .
